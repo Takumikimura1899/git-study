@@ -31,6 +31,10 @@
 
 リポジトリをコピーする。
 
+> origin
+
+git の初期設定で割り当てられるデフォルトのリポジトリの URL の別名。git remote -v でリポジトリを見ると左端に origin と書いてあるのが確認出来る。
+
 ## コミットの流れ
 
 > working directory(自分が作業しているディレクトリ)=> staging area =>リポジトリ
